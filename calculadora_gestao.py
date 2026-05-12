@@ -37,7 +37,7 @@ POLITICA_GESTAO = {
     },
     "Gerente": {
         "percentual_meta": 1.00,
-        "valor_referencia": 8000.0,
+        "valor_referencia": 6000.0,
     },
     "LDR": {
         "percentual_meta": 1.00,
